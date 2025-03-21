@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Maurig</h1>
 <h3 align="center">I am a data scientist and data analyst, enthusiastic about finding interesting insights from data</h3>
 
-- 🔭 I’m currently working on **Own Projects about Edtech**
+- 🔭 I’m currently working on **Own Projects about Edtech and E-Commerce**
 
-- 🌱 I’m currently learning **SQL, Python, HTML, CSS and Digital Marketing**
+- 🌱 I’m currently learning **SQL, Python and Digital Marketing**
 
 - 👯 I’m looking to collaborate on **interesting startups**
 
