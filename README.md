@@ -1,53 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ezequiel Maurig</h1>
-<h3 align="center">Data Scientist & Analyst | Passionate about turning complex data into actionable strategies, specializing in Fintech and E-Commerce.</h3>
+<h1 align="center">Ezequiel Maurig</h1>
+<h3 align="center">CEO @ Hubtsy · Quant Trader (in progress) · Building LATAM Prop Firm</h3>
 
----
-
-### 💡 What I'm Focused On:
-
-* **🚀 Entrepreneurship:** Actively developing **personal projects focused on Fintech and E-Commerce** to solve real-world business problems using data.
-* **🌱 Skill Expansion:** Currently mastering **Advanced Python Libraries (Pandas, Scikit-learn), AI/Machine Learning concepts, and Digital Marketing Strategies**.
-* **📈 Seeking Collaboration:** I am actively looking to collaborate with **innovative startups** that require expertise in **Data Science, Data Analysis, or Business Intelligence** to drive growth and operational efficiency.
-
-### 💼 My Data Toolkit:
-
-<p align="left"> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  Data infrastructure for stablecoins · Algorithmic trading · Systematic risk
 </p>
 
 ---
 
-### 🌐 Connect & Collaborate:
+### 🏢 Hubtsy — Stablecoin Data API
+
+**Hubtsy** provides real-time and historical data infrastructure for stablecoin markets.  
+Designed for traders, researchers, and fintech builders.
+
+**Top features:**
+- **Cross-chain supply & circulation** — Track mint/burn activity across Ethereum, Solana, BSC, and more.
+- **Stablecoin pegs & deviations** — Real-time alerts and historical analysis of de-pegging events.
+- **Yield & pool analytics** — On-chain exposure to Curve, Uniswap, and Aave stable pools.
+
+---
+
+### 📈 Current Focus
+
+- Quant trading strategies (alpha research, backtesting, execution)  
+- Building a **proprietary trading firm** focused on funding LATAM traders  
+- Active trader in small caps · Long-term investor  
+
+---
+
+### 🛠️ Core Stack
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ezequielmaurig/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequielmaurig" height="30" width="40" />
-</a>
-<a href="https://instagram.com/ezemaurig" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezemaurig" height="30" width="40" />
-</a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-***
+---
 
-<br>
+### 📫 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/ezequielmaurig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<!-- Add website, X, or blog here -->
+</p>
