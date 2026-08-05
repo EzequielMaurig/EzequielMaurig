@@ -2,14 +2,14 @@
 <h3 align="center">Founder @ Monelly & Pragmlago.com · Quant Trader (in progress)</h3>
 
 <p align="center">
-  Building Monelly Wallet · Algorithmic trading · Systematic risk
+  Building Monelly Wallet · Algorithmic trading · 
 </p>
 
 ---
 
 ### 💳 Monelly — Next-Gen Crypto Wallet
 
-**Monelly** is an advanced multi-chain crypto wallet and intelligence platform. Designed for seamless asset management and execution.
+**Monelly** will be a Non-custodial crypto wallet for Latam.
 
 **Top features:**
 - **Anti-MEV Swaps & Smart Aggregator** — Execute swaps with a transparent 0.3% fee and zero hidden costs.
@@ -20,7 +20,7 @@
 
 ### 🛠️ Pragmlago.com
 
-Suite of technical indicators for TradingView.
+Suite of quant technical indicators for TradingView.
 
 ---
 
@@ -28,7 +28,6 @@ Suite of technical indicators for TradingView.
 
 - Building **Monelly Wallet**  
 - Quant trading strategies (alpha research, backtesting, execution)  
-- Building a **proprietary trading firm** focused on funding LATAM traders  
 - Active trader in small caps · Long-term investor  
 
 ---
