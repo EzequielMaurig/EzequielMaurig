@@ -2,7 +2,7 @@
 <h3 align="center">Founder @ Monelly & Pragmlago.com · Quant Trader (in progress)</h3>
 
 <p align="center">
-  Building Monelly Wallet · Algorithmic trading · 
+  Data Science/Analysis · Building Monelly Wallet · Algorithmic trading · 
 </p>
 
 ---
@@ -21,14 +21,6 @@
 ### 🛠️ Pragmlago.com
 
 Suite of quant technical indicators for TradingView.
-
----
-
-### 📈 Current Focus
-
-- Building **Monelly Wallet**  
-- Quant trading strategies (alpha research, backtesting, execution)  
-- Active trader in small caps · Long-term investor  
 
 ---
 
