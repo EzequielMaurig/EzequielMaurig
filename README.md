@@ -1,41 +1,5 @@
 <h1 align="center">Ezequiel Maurig</h1>
-<h3 align="center">Founder @ Monelly & Pragmlago.com · Quant Trader (in progress)</h3>
-
-<p align="center">
-  Data Science/Analysis · Building Monelly Wallet · Algorithmic trading · 
-</p>
-
----
-
-### 💳 Monelly — Next-Gen Crypto Wallet
-
-**Monelly** will be a Non-custodial crypto wallet for Latam.
-
-**Top features:**
-- **Anti-MEV Swaps & Smart Aggregator** — Execute swaps with a transparent 0.3% fee and zero hidden costs.
-- **Multi-Wallet Dashboard** — Connect any wallet (MetaMask, Trust, etc.) and view all your assets in a single screen.
-- **Moni (AI Assistant)** — Predictive mobile alerts keeping you informed on market movements (e.g., *"ETH hit resistance, check your position"*). Informative, non-prescriptive analytics.
-
----
-
-### 🛠️ Pragmlago.com
-
-Suite of quant technical indicators for TradingView.
-
----
-
-### 🛠️ Core Stack
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📫 Connect
+<h3 align="center">Entrepreneur & Quant Trader (in progress)</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/ezequielmaurig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
